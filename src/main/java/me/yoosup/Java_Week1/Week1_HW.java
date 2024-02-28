@@ -1,8 +1,8 @@
-package me.yoosup.Java_Week_1;
+package me.yoosup.Java_Week1;
 
 import java.util.Scanner;
 
-public class Week_1_HW {
+public class Week1_HW {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
