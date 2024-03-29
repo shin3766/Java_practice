@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aecaa0ec-e146-4071-a1dd-3c0138f9b575" name="변경" comment="Java 3주차 OOP 개념 및 숙제 완료&#10;계산기를 if문 -&gt; 클래스로 분리 -&gt; 추상 클래스로 분리하여&#10;리펙토링하였습니다.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/SubtractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/SubtractOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/interfaceJava/TestInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709110762972</updated>
       <workItem from="1709110763822" duration="6242000" />
-      <workItem from="1711635141004" duration="6795000" />
+      <workItem from="1711635141004" duration="7753000" />
     </task>
     <task id="LOCAL-00001" summary="Java 1주차 숙제 완료">
       <option name="closed" value="true" />
@@ -104,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709111639665</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java 3주차 OOP 개념 및 숙제 완료&#10;계산기를 if문 -&gt; 클래스로 분리 -&gt; 추상 클래스로 분리하여&#10;리펙토링하였습니다.">
+      <option name="closed" value="true" />
+      <created>1711688635512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711688635512</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
