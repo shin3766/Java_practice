@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecaa0ec-e146-4071-a1dd-3c0138f9b575" name="변경" comment="Java 2주차 숙제 완료&#10;입력받은 자료구조의 이름에 따라 레시피를 저장하는 프로그램입니다.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/class_and_object/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/class_and_object/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/class_and_object/Door.java" afterDir="false" />
+    <list default="true" id="aecaa0ec-e146-4071-a1dd-3c0138f9b575" name="변경" comment="Java 3주차 OOP 개념 및 숙제 완료&#10;계산기를 if문 -&gt; 클래스로 분리 -&gt; 추상 클래스로 분리하여&#10;리펙토링하였습니다.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/AbstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/absractCalculator/SubtractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/AbstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/yoosup/Java_Week3/refactorCalculator/SubtractOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +41,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2czO64wUb5bk6kknM2ZxpnK78cE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/brian/OneDrive/Desktop/Java_Practice/src/main/java/me/yoosup",
+    "last_opened_file_path": "C:/Users/brian/OneDrive/Desktop/Java_Practice/src/main/java/me/yoosup/Java_Week3/absractCalculator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +73,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brian\OneDrive\Desktop\Java_Practice\src\main\java\me\yoosup\Java_Week3\absractCalculator" />
       <recent name="C:\Users\brian\OneDrive\Desktop\Java_Practice\src\main\java\me\yoosup" />
     </key>
   </component>
@@ -74,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709110762972</updated>
       <workItem from="1709110763822" duration="6242000" />
+      <workItem from="1711635141004" duration="6795000" />
     </task>
     <task id="LOCAL-00001" summary="Java 1주차 숙제 완료">
       <option name="closed" value="true" />
@@ -123,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java 1주차 숙제 완료" />
     <MESSAGE value="Java 2주차 숙제 완료&#10;입력받은 자료구조의 이름에 따라 레시피를 저장하는 프로그램입니다." />
-    <option name="LAST_COMMIT_MESSAGE" value="Java 2주차 숙제 완료&#10;입력받은 자료구조의 이름에 따라 레시피를 저장하는 프로그램입니다." />
+    <MESSAGE value="Java 3주차 OOP 개념 및 숙제 완료&#10;계산기를 if문 -&gt; 클래스로 분리 -&gt; 추상 클래스로 분리하여&#10;리펙토링하였습니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="Java 3주차 OOP 개념 및 숙제 완료&#10;계산기를 if문 -&gt; 클래스로 분리 -&gt; 추상 클래스로 분리하여&#10;리펙토링하였습니다." />
   </component>
 </project>
